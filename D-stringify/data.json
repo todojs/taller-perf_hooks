@@ -1,0 +1,14 @@
+[
+  {
+    "firstName": "Pablo",
+    "lastName" : "Almunia",
+    "age"      : 53,
+    "company"  : "Corus"
+  },
+  {
+    "firstName": "Matteo",
+    "lastName" : "Collina",
+    "age"      : 32,
+    "company"  : "nearForm"
+  }
+]

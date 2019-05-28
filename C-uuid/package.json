@@ -1,0 +1,13 @@
+{
+  "name": "uuid-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "uuid-test.js",
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "hyperid": "^2.0.2",
+    "nanoid": "^2.0.3",
+    "uuid": "^3.3.2"
+  }
+}

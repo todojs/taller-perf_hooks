@@ -1,0 +1,11 @@
+{
+  "name": "stringify-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringify-test.js",
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "fast-json-stringify": "^1.15.2"
+  }
+}
