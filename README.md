@@ -177,7 +177,7 @@ En el programa Object.keys-vs-for-in.js
 - Cargar la utilidad const {entriesStatistics} = require ('../utils/perf_utils')
   y utilizar entriesStatistics() para mostrar los resultados.
 
-
+- Alternativa: incluir otra opción con Object.getOwnPropertyNames()
 
 
 
@@ -198,7 +198,7 @@ En el programa getAllPropertyNames.js
 - Utilizar entriesStatistics() para mostrar los resultados.
 
 
-
+- Alternativa: medir también indexOf()
 
 
 
@@ -280,9 +280,10 @@ En el programa poblacion-por-provincia.js
   cada una de las alternativas.
 - Ejecutar una sóla vez (sin bucle) y mostar con console.log()
 
-(anternativa)
-- Ejecutar en bucle (1000 veces) y mostar con entriesStatistics()
 
+- Alternativa: ejecutar en bucle (1000 veces) y mostar con entriesStatistics()
+
+- Extra: buscar otra alternativa de mayor rendimiento
 
 
 

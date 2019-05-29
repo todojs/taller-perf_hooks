@@ -9,7 +9,7 @@ const bigObject = {
 
 // For in
 const resultA = [];
-for (var c in bigObject) {
+for (let c in bigObject) {
   resultA.push(c);
 }
 console.assert(resultA.length === 26);

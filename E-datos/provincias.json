@@ -1,0 +1,210 @@
+[
+  {
+    "codigo_provincia": "02",
+    "provincia"       : "Albacete"
+  },
+  {
+    "codigo_provincia": "03",
+    "provincia"       : "Alicante/Alacant"
+  },
+  {
+    "codigo_provincia": "04",
+    "provincia"       : "Almería"
+  },
+  {
+    "codigo_provincia": "01",
+    "provincia"       : "Araba/Álava"
+  },
+  {
+    "codigo_provincia": "33",
+    "provincia"       : "Asturias"
+  },
+  {
+    "codigo_provincia": "05",
+    "provincia"       : "Ávila"
+  },
+  {
+    "codigo_provincia": "06",
+    "provincia"       : "Badajoz"
+  },
+  {
+    "codigo_provincia": "07",
+    "provincia"       : "Balears, Illes"
+  },
+  {
+    "codigo_provincia": "08",
+    "provincia"       : "Barcelona"
+  },
+  {
+    "codigo_provincia": "48",
+    "provincia"       : "Bizkaia"
+  },
+  {
+    "codigo_provincia": "09",
+    "provincia"       : "Burgos"
+  },
+  {
+    "codigo_provincia": "10",
+    "provincia"       : "Cáceres"
+  },
+  {
+    "codigo_provincia": "11",
+    "provincia"       : "Cádiz"
+  },
+  {
+    "codigo_provincia": "39",
+    "provincia"       : "Cantabria"
+  },
+  {
+    "codigo_provincia": "12",
+    "provincia"       : "Castellón/Castelló"
+  },
+  {
+    "codigo_provincia": "51",
+    "provincia"       : "Ceuta"
+  },
+  {
+    "codigo_provincia": "13",
+    "provincia"       : "Ciudad Real"
+  },
+  {
+    "codigo_provincia": "14",
+    "provincia"       : "Córdoba"
+  },
+  {
+    "codigo_provincia": "15",
+    "provincia"       : "Coruña, A"
+  },
+  {
+    "codigo_provincia": "16",
+    "provincia"       : "Cuenca"
+  },
+  {
+    "codigo_provincia": "20",
+    "provincia"       : "Gipuzkoa"
+  },
+  {
+    "codigo_provincia": "17",
+    "provincia"       : "Girona"
+  },
+  {
+    "codigo_provincia": "18",
+    "provincia"       : "Granada"
+  },
+  {
+    "codigo_provincia": "19",
+    "provincia"       : "Guadalajara"
+  },
+  {
+    "codigo_provincia": "21",
+    "provincia"       : "Huelva"
+  },
+  {
+    "codigo_provincia": "22",
+    "provincia"       : "Huesca"
+  },
+  {
+    "codigo_provincia": "23",
+    "provincia"       : "Jaén"
+  },
+  {
+    "codigo_provincia": "24",
+    "provincia"       : "León"
+  },
+  {
+    "codigo_provincia": "25",
+    "provincia"       : "Lleida"
+  },
+  {
+    "codigo_provincia": "27",
+    "provincia"       : "Lugo"
+  },
+  {
+    "codigo_provincia": "28",
+    "provincia"       : "Madrid"
+  },
+  {
+    "codigo_provincia": "29",
+    "provincia"       : "Málaga"
+  },
+  {
+    "codigo_provincia": "52",
+    "provincia"       : "Melilla"
+  },
+  {
+    "codigo_provincia": "30",
+    "provincia"       : "Murcia"
+  },
+  {
+    "codigo_provincia": "31",
+    "provincia"       : "Navarra"
+  },
+  {
+    "codigo_provincia": "32",
+    "provincia"       : "Ourense"
+  },
+  {
+    "codigo_provincia": "34",
+    "provincia"       : "Palencia"
+  },
+  {
+    "codigo_provincia": "35",
+    "provincia"       : "Palmas, Las"
+  },
+  {
+    "codigo_provincia": "36",
+    "provincia"       : "Pontevedra"
+  },
+  {
+    "codigo_provincia": "26",
+    "provincia"       : "Rioja, La"
+  },
+  {
+    "codigo_provincia": "37",
+    "provincia"       : "Salamanca"
+  },
+  {
+    "codigo_provincia": "38",
+    "provincia"       : "Santa Cruz de Tenerife"
+  },
+  {
+    "codigo_provincia": "40",
+    "provincia"       : "Segovia"
+  },
+  {
+    "codigo_provincia": "41",
+    "provincia"       : "Sevilla"
+  },
+  {
+    "codigo_provincia": "42",
+    "provincia"       : "Soria"
+  },
+  {
+    "codigo_provincia": "43",
+    "provincia"       : "Tarragona"
+  },
+  {
+    "codigo_provincia": "44",
+    "provincia"       : "Teruel"
+  },
+  {
+    "codigo_provincia": "45",
+    "provincia"       : "Toledo"
+  },
+  {
+    "codigo_provincia": "46",
+    "provincia"       : "Valencia/València"
+  },
+  {
+    "codigo_provincia": "47",
+    "provincia"       : "Valladolid"
+  },
+  {
+    "codigo_provincia": "49",
+    "provincia"       : "Zamora"
+  },
+  {
+    "codigo_provincia": "50",
+    "provincia"       : "Zaragoza"
+  }
+]
