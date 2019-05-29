@@ -5,8 +5,11 @@
 
 
 Pablo Almunia
+
 @pabloalmunia
+
 pablo.almunia@corusconsulting.com
+
 Director General de CORUS
 
 
@@ -16,7 +19,7 @@ Director General de CORUS
 
 
 
-Emitido en directo por por: www.todojs.com
+
 
 
 
